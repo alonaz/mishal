@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MishalApplication<mishal>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.mishal.mishal.MishalApplication",
+            "projectName": "mishal",
+            "args": ""
+        }
+    ]
+}
